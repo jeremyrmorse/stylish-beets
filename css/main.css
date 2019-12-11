@@ -34,3 +34,37 @@ main {
 .days {
   font-size: 1.5rem;
 }
+
+a:hover {
+  color: #3f1622;
+}
+
+ol {
+  list-style-type: none;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.nutrish {
+  font-weight: bold;
+}
+
+li a {
+  font-family: "pt sans", sans-serif;
+  font-weight: bold;
+}
+
+.bundle {
+  font-style: italic;
+}
+
+.com {
+  list-style-type: lower-greek;
+}
+
+.root {
+  font-style: normal;
+  font-size: 1.125rem;
+}
