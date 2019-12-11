@@ -37,6 +37,7 @@ main {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
 
 ol {
