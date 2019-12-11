@@ -5,29 +5,29 @@ html {
 }
 
 h1, h2 {
-  color: #3f1622
+  color: #3f1622;
   font-weight: bold;
 }
 
 a {
-  color: #8f2440
+  color: #8f2440;
   text-decoration: none;
   font-weight: bold;
   font-size: 1.5rem;
 }
 
 .beet {
-  font-family: "pt sans", sans-sans-serif;
+  font-family: "PT Sans", sans-sans-serif;
 }
 
 figure {
-  font-family: "pt serif", sans-serif;
+  font-family: "PT Serif", sans-serif;
   font-size: 1.125rem;
   font-style: italic;
 }
 
 main {
-  font-family: "pt serif", sans-serif;
+  font-family: "PT Serif", sans-serif;
   line-height: 1.5;
 }
 
@@ -52,7 +52,7 @@ ul {
 }
 
 li a {
-  font-family: "pt sans", sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
 }
 
